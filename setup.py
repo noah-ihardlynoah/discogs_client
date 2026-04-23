@@ -25,6 +25,7 @@ setup(
             'requests',
             'oauthlib',
             'python-dateutil',
+            'mutagen',
             ],
         packages=[
             'discogs_client',
